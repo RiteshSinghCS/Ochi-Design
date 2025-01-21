@@ -56,7 +56,7 @@ npm install
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/alok-mishra143/Ochi.git
+    https://github.com/RiteshSinghCS/Ochi-Design.git
     ```
 
 2. Navigate to the project directory:
